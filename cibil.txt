@@ -1,0 +1,23 @@
+bank 
+cibil
+client
+
+
+cibil -> history -> central model(pre-trained)
+app installed(model)
+
+client data enter for loan request
+30 days
+
+< 30 -> train in 25 days
+
+{
+    days: 30 ; []
+    days : 60: []
+}
+
+cicbil re-train
+prob -> new model pushed to client app.
+client data in on phone
+model(daat) - > prob
+share prob with bank
