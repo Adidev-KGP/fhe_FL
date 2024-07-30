@@ -2,56 +2,56 @@
 
 ## Training Logs for FHE MODEL
 
-#### Epoch 1/50, Loss: 0.6160
-#### Epoch 2/50, Loss: 0.2929
-#### Epoch 3/50, Loss: 0.3900
-#### Epoch 4/50, Loss: 0.3069
-#### Epoch 5/50, Loss: 0.5640
-#### Epoch 6/50, Loss: 0.3641
-#### Epoch 7/50, Loss: 0.2778
-#### Epoch 8/50, Loss: 0.2603
-#### Epoch 9/50, Loss: 0.3411
-#### Epoch 10/50, Loss: 0.4483
-#### Epoch 11/50, Loss: 0.6914
-#### Epoch 12/50, Loss: 0.2349
-#### Epoch 13/50, Loss: 0.2809
-#### Epoch 14/50, Loss: 0.4614
-#### Epoch 15/50, Loss: 0.5359
-#### Epoch 16/50, Loss: 0.5334
-#### Epoch 17/50, Loss: 0.2302
-#### Epoch 18/50, Loss: 0.3472
-#### Epoch 19/50, Loss: 0.3154
-#### Epoch 20/50, Loss: 0.2914
-#### Epoch 21/50, Loss: 0.4233
-#### Epoch 22/50, Loss: 0.3025
-#### Epoch 23/50, Loss: 0.3040
-#### Epoch 24/50, Loss: 0.3288
-#### Epoch 25/50, Loss: 0.2975
-#### Epoch 26/50, Loss: 0.4050
-#### Epoch 27/50, Loss: 0.5062
-#### Epoch 28/50, Loss: 0.6104
-#### Epoch 29/50, Loss: 0.3279
-#### Epoch 30/50, Loss: 0.2665
-#### Epoch 31/50, Loss: 0.4048
-#### Epoch 32/50, Loss: 0.5050
-#### Epoch 33/50, Loss: 0.3495
-#### Epoch 34/50, Loss: 0.2143
-#### Epoch 35/50, Loss: 0.5156
-#### Epoch 36/50, Loss: 0.2992
-#### Epoch 37/50, Loss: 0.1481
-#### Epoch 38/50, Loss: 0.2278
-#### Epoch 39/50, Loss: 0.3310
-#### Epoch 40/50, Loss: 0.3706
-#### Epoch 41/50, Loss: 0.4596
-#### Epoch 42/50, Loss: 0.3231
-#### Epoch 43/50, Loss: 0.4418
-#### Epoch 44/50, Loss: 0.3469
-#### Epoch 45/50, Loss: 0.3299
-#### Epoch 46/50, Loss: 0.3106
-#### Epoch 47/50, Loss: 0.2345
-#### Epoch 48/50, Loss: 0.1508
-#### Epoch 49/50, Loss: 0.2725
-#### Epoch 50/50, Loss: 0.1529
+#### Epoch 1/50, Loss: 0.3515, Accuracy: 81.46%
+#### Epoch 2/50, Loss: 0.4625, Accuracy: 83.66%
+#### Epoch 3/50, Loss: 0.2105, Accuracy: 84.11%
+#### Epoch 4/50, Loss: 0.3722, Accuracy: 84.29%
+#### Epoch 5/50, Loss: 0.3786, Accuracy: 83.82%
+#### Epoch 6/50, Loss: 0.5878, Accuracy: 83.81%
+#### Epoch 7/50, Loss: 0.3872, Accuracy: 83.90%
+#### Epoch 8/50, Loss: 0.2698, Accuracy: 84.02%
+#### Epoch 9/50, Loss: 0.3323, Accuracy: 84.18%
+#### Epoch 10/50, Loss: 0.3185, Accuracy: 84.39%
+#### Epoch 11/50, Loss: 0.4512, Accuracy: 84.34%
+#### Epoch 12/50, Loss: 0.4378, Accuracy: 84.51%
+#### Epoch 13/50, Loss: 0.4253, Accuracy: 84.59%
+#### Epoch 14/50, Loss: 0.3197, Accuracy: 84.60%
+#### Epoch 15/50, Loss: 0.3211, Accuracy: 84.78%
+#### Epoch 16/50, Loss: 0.3277, Accuracy: 84.74%
+#### Epoch 17/50, Loss: 0.3913, Accuracy: 84.77%
+#### Epoch 18/50, Loss: 0.3947, Accuracy: 84.90%
+#### Epoch 19/50, Loss: 0.4442, Accuracy: 84.89%
+#### Epoch 20/50, Loss: 0.4221, Accuracy: 84.75%
+#### Epoch 21/50, Loss: 0.2066, Accuracy: 84.79%
+#### Epoch 22/50, Loss: 0.4528, Accuracy: 84.98%
+#### Epoch 23/50, Loss: 0.4212, Accuracy: 84.99%
+#### Epoch 24/50, Loss: 0.4785, Accuracy: 84.98%
+#### Epoch 25/50, Loss: 0.3412, Accuracy: 84.89%
+#### Epoch 26/50, Loss: 0.2986, Accuracy: 84.96%
+#### Epoch 27/50, Loss: 0.2944, Accuracy: 84.89%
+#### Epoch 28/50, Loss: 0.3497, Accuracy: 84.95%
+#### Epoch 29/50, Loss: 0.3284, Accuracy: 85.00%
+#### Epoch 30/50, Loss: 0.3374, Accuracy: 85.21%
+#### Epoch 31/50, Loss: 0.4219, Accuracy: 85.17%
+#### Epoch 32/50, Loss: 0.3671, Accuracy: 84.80%
+#### Epoch 33/50, Loss: 0.4718, Accuracy: 84.82%
+#### Epoch 34/50, Loss: 0.3859, Accuracy: 84.85%
+#### Epoch 35/50, Loss: 0.4896, Accuracy: 84.90%
+#### Epoch 36/50, Loss: 0.3373, Accuracy: 85.08%
+#### Epoch 37/50, Loss: 0.4716, Accuracy: 85.04%
+#### Epoch 38/50, Loss: 0.3937, Accuracy: 85.03%
+#### Epoch 39/50, Loss: 0.2216, Accuracy: 85.14%
+#### Epoch 40/50, Loss: 0.1792, Accuracy: 85.14%
+#### Epoch 41/50, Loss: 0.2846, Accuracy: 85.22%
+#### Epoch 42/50, Loss: 0.4148, Accuracy: 85.24%
+#### Epoch 43/50, Loss: 0.4764, Accuracy: 85.23%
+#### Epoch 44/50, Loss: 0.2478, Accuracy: 85.14%
+#### Epoch 45/50, Loss: 0.4340, Accuracy: 85.38%
+#### Epoch 46/50, Loss: 0.2575, Accuracy: 85.17%
+#### Epoch 47/50, Loss: 0.2568, Accuracy: 85.15%
+#### Epoch 48/50, Loss: 0.4314, Accuracy: 85.22%
+#### Epoch 49/50, Loss: 0.2224, Accuracy: 85.19%
+#### Epoch 50/50, Loss: 0.3818, Accuracy: 85.20%
 
 ## Training Time
 
@@ -398,3 +398,21 @@ Inference time: 0.0772 seconds
 #### Training time: 50.6416 seconds
 #### Final prediction (after federated learning): 0.29480993835526054
 #### Inference time: 0.0772 seconds
+
+
+## Deviation on FHE v/s Classical ML
+
+### Input Details:
+
+person_age: 30
+person_income: 5454
+person_emp_length: 10
+loan_amnt: 452353
+loan_int_rate: 10
+loan_percent_income: 8
+cb_person_cred_hist_length: 10
+
+### Fhe prediction : 0.45704926
+### Classical ML prediction : 0.6504702171943707
+
+### Deviation : 29.735%

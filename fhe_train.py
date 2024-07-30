@@ -195,13 +195,20 @@ def train_and_compile_model(data):
     start_time = time.time()  # Start timing the training
     for epoch in range(num_epochs):
         model.train()
+        correct = 0
+        total = 0
         for X_batch, y_batch in train_loader:
             optimizer.zero_grad()
             outputs = model(X_batch)
             loss = criterion(outputs, y_batch)
             loss.backward()
             optimizer.step()
-        print(f'Epoch {epoch+1}/{num_epochs}, Loss: {loss.item():.4f}')
+            # Calculate accuracy
+            predicted = outputs.round()  # Convert probabilities to binary predictions
+            total += y_batch.size(0)
+            correct += (predicted == y_batch).sum().item()
+        accuracy = 100 * correct / total
+        print(f'Epoch {epoch+1}/{num_epochs}, Loss: {loss.item():.4f}, Accuracy: {accuracy:.2f}%')
     training_time = time.time() - start_time  # End timing the training
     print(f"Training time: {training_time:.4f} seconds")
 
