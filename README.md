@@ -404,13 +404,13 @@ Inference time: 0.0772 seconds
 
 ### Input Details:
 
-person_age: 30
-person_income: 5454
-person_emp_length: 10
-loan_amnt: 452353
-loan_int_rate: 10
-loan_percent_income: 8
-cb_person_cred_hist_length: 10
+#### person_age: 30
+#### person_income: 5454
+#### person_emp_length: 10
+#### loan_amnt: 452353
+#### loan_int_rate: 10
+#### loan_percent_income: 8
+#### cb_person_cred_hist_length: 10
 
 ### Fhe prediction : 0.45704926
 ### Classical ML prediction : 0.6504702171943707
